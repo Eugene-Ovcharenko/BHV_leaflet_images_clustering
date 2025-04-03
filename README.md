@@ -1,6 +1,6 @@
 # Image Clustering, Visualization, and Statistical Analysis Pipeline v1.5
 
-This pipeline consists of three Python scripts that form a complete workflow for image preprocessing, clustering, visualization, and statistical analysis. The updated scripts now include additional functionality for image-level metric calculations and patient name extraction, as well as enhanced probability mapping that produces colored composite maps. Advanced visualization functions display thumbnail images (with optional image names) on t-SNE and PCA scatter plots and grid views grouping images by clusters.
+This pipeline comprises three Python scripts that provide a comprehensive workflow for preprocessing, clustering, visualization, and statistical analysis of Multislice Computed Tomography (MSCT) data of scanned prosthetic leaflets explanted due to Structural Valve Degeneration (SVD). The scripts incorporate additional functionality for calculating image-level metrics, as well as advanced probability mapping that generates colored composite maps. Enhanced visualization functions display thumbnail images (with optional annotations) on t‑SNE and PCA scatter plots, in addition to grid views that group images by clusters.
 
 ---
 
