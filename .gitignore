@@ -12,6 +12,7 @@ venv/
 
 # Data
 data/data_clinical.xlsx
+data/images_*
 
 # Results
 results/
